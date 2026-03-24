@@ -1,4 +1,4 @@
-# -Linux-Hardening-Audit-Too
+# -Linux-Hardening-Audit-Tool
 
 Linux Hardening Audit Tool
 📌 Project Overview
